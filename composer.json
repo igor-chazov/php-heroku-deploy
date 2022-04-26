@@ -1,0 +1,17 @@
+{
+  "name": "igor-chazov/php-heroku-deploy",
+  "description": "Creating and uploading an application to hosting",
+  "authors": [
+    {
+      "name": "igor-chazov",
+      "email": "igor-chazov@yandex.ru"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require" : {
+
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  }
+}
